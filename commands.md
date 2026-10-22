@@ -1,0 +1,1 @@
+python -m metadrive.examples.drive_in_single_agent_env
